@@ -58,7 +58,7 @@ git init
 ```
 
 ```bash
-git remote add origin https://github.com/malkemit/namizun.git
+git remote add origin https://github.com/pourya-p/namizun.git
 ```
 
 ```bash
