@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: namizun_menu
+Version: 1.0.0
+Summary: namizun menu
+Home-page: https://github.com/pourya-p/namizun.git
+Author: MalKeMit
+Requires-Dist: colored~=1.4.4
+Requires-Dist: pyfiglet~=0.8.post1
+Requires-Dist: prettytable~=3.5.0
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary

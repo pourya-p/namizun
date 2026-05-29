@@ -1,0 +1,11 @@
+display.py
+main_menu.py
+monitor.py
+network_submenu.py
+setup.py
+udp_submenu.py
+namizun_menu.egg-info/PKG-INFO
+namizun_menu.egg-info/SOURCES.txt
+namizun_menu.egg-info/dependency_links.txt
+namizun_menu.egg-info/requires.txt
+namizun_menu.egg-info/top_level.txt

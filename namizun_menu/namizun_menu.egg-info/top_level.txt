@@ -1,0 +1,5 @@
+display
+main_menu
+monitor
+network_submenu
+udp_submenu
